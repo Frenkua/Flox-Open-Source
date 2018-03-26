@@ -2,6 +2,7 @@
 
 [![Join the chat at https://gitter.im/Flox-Open-Source/Lobby](https://forthebadge.com/images/badges/check-it-out.svg)](https://gitter.im/Flox-Open-Source/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
 The liscense provides:
 - Commerical Use
