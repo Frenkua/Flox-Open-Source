@@ -1,5 +1,4 @@
 # Flox Open Source
-verbose-sniffle
 The liscense provides:
 - Commerical Use
 - Distribution
@@ -11,3 +10,5 @@ Authors of projects can use these types of Frenkua liscenses:
 
 - Flox Open Source (COPYRIGHT)
 - Flox Open Source (FREE USE)
+
+verbose-sniffle
